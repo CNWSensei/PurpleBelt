@@ -10,7 +10,7 @@ Code repository with everything a Purple Belt needs.
 - Hit clone
 - In your browser, go to your Github dashboard and hit the new button
 - Name your new repository something like NinjaXPurpleBelt
-- Clide the Code button
+- Click the Code button
 - Copy the Https URL
 - In your Github Desktop Click Repository -> Repository Settings
 - Paste the URL to configure the new Git remote
